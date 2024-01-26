@@ -5,7 +5,7 @@
 - Holds a Bachelor's and Master's in Computer Applications 🎓
 - Part-time Coding Instructor 🖥️
 - Passionate about AI-ML solutions and Data Analysis 🚀
-- Connect with me on [LinkedIn](linkedin.com/in/rghoshal2000)!
+- Connect with me on [LinkedIn](rghoshal2000)!
 
 ## 🌐 Personal Interests
 
