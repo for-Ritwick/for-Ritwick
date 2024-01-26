@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there! 👋 I'm Ritwick.
 
-<!--
-**for-Ritwick/for-Ritwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- Research Analyst turned Aspiring Data Scientist 📊💻
+- Holds a Bachelor's and Master's in Computer Applications 🎓
+- Part-time Coding Instructor 🖥️
+- Passionate about AI-ML solutions and Data Analysis 🚀
+- Connect with me on [LinkedIn](linkedin.com/in/rghoshal2000)!
 
-Here are some ideas to get you started:
+## 🌐 Personal Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Outside the world of tech, I enjoy pushing myself to develop new skills.
+- My hobbies range from video gaming 🎮, break dancing (hip-hop) 💃, photography 📸, and touch typing to some whacky ones like writing with my left hand ✍️.
+- I also love traveling ✈️. In 2023, I explored the beautiful landscapes of Bhutan 🏞️. Excited about my upcoming trip in Feb 2024 to Kazakhstan and Uzbekistan, exploring the beauty of Central Asia! 🗺️
