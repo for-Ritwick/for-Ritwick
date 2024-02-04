@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ritwick 👋
+# Hi there! 👋 I'm Ritwick 
 
 ## 👨‍💻 About Me
 
