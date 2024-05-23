@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-- Research Analyst turned Aspiring Data Scientist 📊💻
+- Product Consultant turned Aspiring Data Scientist 📊💻
 - Holds a Bachelor's and Master's in Computer Applications 🎓
 - Part-time Coding Instructor 🖥️
 - Passionate about AI-ML solutions and Data Analysis 🚀
